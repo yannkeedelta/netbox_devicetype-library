@@ -16,76 +16,112 @@ console-ports:
     type: usb-a
 interfaces:
   - name: Ethernet1/1
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/2
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/3
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/4
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/5
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/6
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/7
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/8
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/9
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/10
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/11
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/12
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/13
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/14
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/15
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/16
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/17
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/18
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/19
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/20
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/21
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/22
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/23
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/24
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/25
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/26
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/27
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/28
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/29
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/30
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/31
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/32
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/33
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/34
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/35
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: Ethernet1/36
+    enabled: false
     type: 100gbase-x-qsfp28
   - name: mgmt0
     type: 1000base-t
